@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="Rote Mühle">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#241f19"/><stop offset="1" stop-color="#5b1b2a"/></linearGradient>
+  <radialGradient id="r" cx="75%" cy="20%" r="70%"><stop stop-color="#c7916d" stop-opacity=".33"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1600" height="1000" fill="url(#g)"/><rect width="1600" height="1000" fill="url(#r)"/>
+<g fill="none" stroke="#eadfce" stroke-opacity=".6" transform="translate(800 430)">
+  <circle r="155" stroke-width="3"/><circle r="116" stroke-width="1.5" opacity=".65"/>
+  <path d="M-112-112 112 112M-112 112 112-112M0-155V155M-155 0H155" stroke-width="3"/>
+  <circle r="18" fill="#a81636" stroke="none"/>
+</g>
+<text x="800" y="700" text-anchor="middle" fill="#f5efe6" font-size="72" font-family="Georgia,serif">Rote Mühle</text>
+<text x="800" y="752" text-anchor="middle" fill="#d6c8b6" font-size="18" letter-spacing="9" font-family="Arial,sans-serif">LANDGASTHOF AM LIEDERBACH</text>
+</svg>
